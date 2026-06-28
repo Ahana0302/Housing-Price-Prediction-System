@@ -29,21 +29,6 @@ house_price_prediction/
 ├── requirements.txt            # Dependencies
 └── README.md
 ```
-
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/yourusername/house_price_prediction.git
-cd house_price_prediction
-pip install -r requirements.txt
-```
-
-## ▶️ Run
-
-```bash
-python main.py
-```
-
 ## 📊 Models Used
 
 | Model | Description |
